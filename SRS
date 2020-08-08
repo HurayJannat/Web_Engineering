@@ -1,0 +1,60 @@
+Group ID: 720
+Group Members Name & ID:
+Huray Jannat Dipty (172-15-9720) Mumenunnessa Keya (172-15-10100)
+Md. Tarikul Aziz (172-15-9721) Bhaskar Majumdar (172-15-9988)
+Project Title: Pandemic Covid-19 in Bangladesh
+Category: Web Application
+PURPOSE: The purpose of developing this “Pandemic Covid-19 in Bangladesh” site is to keep the information of
+daily situations of Covid-19. Here we’ll provide the Confirm, Death and Recovery state. It’ll provide the basic
+information about the infection and how it spread. Through the virtual site people of our country will be aware
+about the worst situation. Foreign countries can also collect the information.
+SCOPE: It will benefit the general people to know about the situation of coronavirus. People will be careful about it
+which is caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). This will provide more flexibility
+about the information. General Information of this infection will help us to take necessary steps. Health sectors such
+as hospitals, clinics that treat covid patients will get convenience. This will facilitate the reporting of many sectors.
+INTRODUCTION
+The Introduction section comprises the sub categories.
+Proposed system
+As the virtual application this is aimed to provide the information of this pandemic. Customers will be able to find
+information easily. There really are so many advantages of this virtual page to the users.
+After careful analysis the system has been identified to be presented with the following modules-
+• Registration
+• Username
+• Password
+• Login
+Functional Requirement
+1. Symptom of Covid-19
+2. Confirmed case
+3. Recovery case
+4. Death case
+5. Count the total number of effective patients in Bangladesh and show it.
+6. Count total death and show it.
+7. Percentage of dead people.
+8. Percentage of recovery patients in Bangladesh.
+Non-Functional Requirement
+• This application capability is dependent on during COVID-19 time period.
+• Users only can find accessed via mail address.
+Software Tools
+Development Tools –
+• Vs Code editor, Brackets, Sublime text.
+• MySQL database.
+ Client server - Web browser
+ Programming Languages - HTML, CSS, Js.
+ADVANTAGES
+▪ Easy to use.
+▪ Helpful for the people of any country.
+▪ Scientists will be benifited.
+▪ Useful for the hospital, Clinics’ doctors.
+▪ Data is very much informative for the junior researchers.
+▪ Advantage in decision making.
+▪ Govt. can use the system for further decision making about Covid-19.
+DEPLOYMENT
+❖ Users need internet connections
+❖ It’s a limited system and less user friendly.
+❖ It’ll provide only covid-19 information.
+❖ For accessing the application to know information people need to buy mobile data.
+❖ Limited sharing is possible.
+HARDWARE SPECIFICATION
+ Processor: intel core i3.
+ RAM: 4 GB.
+ Hard Disk: 1000GB.
